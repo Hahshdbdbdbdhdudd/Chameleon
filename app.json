@@ -1,0 +1,17 @@
+{
+  "name": "𝑨𝒁𝑬𝑶𝑵 𝑿 𝑺𝑪𝑨𝑵𝑵𝑬𝑹",
+  "description": "Source Code Of Scanner Made By Nobita",
+  "keywords": ["GBANS", "SCANNER", "telegram"],
+  "repository": "www.adminlinkde.com",
+  "stack": "container",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Api Id Dal Bsdk",
+      "required": true
+    },
+    "ADMINS": {
+      "description": "Api Hash Tera Baap Yaniki Mai Dalunga?r",
+      "required": true
+    }
+  }
+}
